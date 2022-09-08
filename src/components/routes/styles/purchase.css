@@ -1,6 +1,22 @@
+.purchases{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px;
+}
+
+
 .purchases-container{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 50px;
+}
+
+.purchases-title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+    
 }

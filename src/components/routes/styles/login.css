@@ -42,6 +42,7 @@
   transition: filter 100ms ease;
   cursor: pointer;
   font-size: 15px;
+  box-shadow: 0 0 10px rgb(39, 140, 255);
 }
 .login__btn:hover {
   filter: brightness(1.05);

@@ -7,6 +7,6 @@
     row-gap: 20px;
     padding: 20px;
     border-radius: 10px;
-    background-color: rgb(239, 239, 240);
-    box-shadow: 0 0 10px #0005;
+    background-color: rgba(207, 226, 235, 0.959);
+    box-shadow: 0 0 10px rgb(116, 175, 241);
 }
